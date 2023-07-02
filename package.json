@@ -1,0 +1,25 @@
+{
+  "name": "pdfmerger",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomadpranab/PDFmerger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nomadpranab/PDFmerger/issues"
+  },
+  "homepage": "https://github.com/nomadpranab/PDFmerger#readme",
+  "dependencies": {
+    "multer": "^1.4.5-lts.1",
+    "pdf-merger-js": "^4.3.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
